@@ -47,10 +47,10 @@ body {
   color: white;
 }
 
-/* #reset {
-      background-color: #ccc;
-      color: #333;
-    } */
+#reset {
+  background-color: #ccc;
+  color: #333;
+}
 
 #increase {
   background-color: #28a745;
